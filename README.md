@@ -7,7 +7,7 @@ I'm Katy, a data enthusiast from Portland, OR
 - 👩🏻‍🚀 My background is in processes and operations, with over 7 years of professional experience
 - 🌱Currently working on my BS at Portland State University in Business Technology & Analytics **🎉Graduating June 2023**
 - 📊 I love working with numbers with a strategic focus
-- 📫: Contact me on Linkedin!
+- 📫: Contact me on [Linkedin](www.linkedin.com/in/katyragsdale)!
 
 ## ✨Core competencies ✨
 - 🗣️ Languages: SQL, Python
