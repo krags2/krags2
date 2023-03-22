@@ -19,7 +19,7 @@ I'm Katy, a data enthusiast from Portland, OR
 - Data privacy
 - Senior capstone project (Business case analysis)
 
-[Check out my projects!](https://github.com/krags2/My_Projects#my_projects)
+## [Check out my projects!](https://github.com/krags2/My_Projects#my_projects)
 
 <!--
 **krags2/krags2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
