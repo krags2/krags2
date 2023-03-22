@@ -2,7 +2,7 @@
 
 I'm Katy, a data enthusiast from Portland, OR
 
-## About me:
+## ⚡ About me ⚡ 
 - 🌻 Pronouns: She/her/hers
 - 👩🏻‍🚀 My background is in processes and operations, with over 7 years of professional experience
 - 🌱Currently working on my BS at Portland State University in Business Technology & Analytics **🎉Graduating June 2023**
